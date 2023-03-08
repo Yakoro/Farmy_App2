@@ -73,5 +73,5 @@ public class InfoUserActivity extends AppCompatActivity {
             }
         });
 
-    } //Commentaire pour commit
+    } //Commentaire pour commit 2
 }
